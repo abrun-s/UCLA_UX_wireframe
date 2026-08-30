@@ -1,0 +1,10 @@
+{
+  "description": "Delivers precise multi-device web page layouts matching original designs without alterations, ensuring consistent user experience across phone, tablet, and desktop.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
